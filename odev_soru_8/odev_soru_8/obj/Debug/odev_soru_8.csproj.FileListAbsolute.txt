@@ -1,0 +1,7 @@
+C:\Users\DRAGON\source\repos\odev_soru_8\odev_soru_8\bin\Debug\odev_soru_8.exe.config
+C:\Users\DRAGON\source\repos\odev_soru_8\odev_soru_8\bin\Debug\odev_soru_8.exe
+C:\Users\DRAGON\source\repos\odev_soru_8\odev_soru_8\bin\Debug\odev_soru_8.pdb
+C:\Users\DRAGON\source\repos\odev_soru_8\odev_soru_8\obj\Debug\odev_soru_8.csprojAssemblyReference.cache
+C:\Users\DRAGON\source\repos\odev_soru_8\odev_soru_8\obj\Debug\odev_soru_8.csproj.CoreCompileInputs.cache
+C:\Users\DRAGON\source\repos\odev_soru_8\odev_soru_8\obj\Debug\odev_soru_8.exe
+C:\Users\DRAGON\source\repos\odev_soru_8\odev_soru_8\obj\Debug\odev_soru_8.pdb
