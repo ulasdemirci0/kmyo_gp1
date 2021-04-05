@@ -1,0 +1,7 @@
+R:\C#\odev_soru_3\odev_soru_3\bin\Debug\odev_soru_3.exe.config
+R:\C#\odev_soru_3\odev_soru_3\bin\Debug\odev_soru_3.exe
+R:\C#\odev_soru_3\odev_soru_3\bin\Debug\odev_soru_3.pdb
+R:\C#\odev_soru_3\odev_soru_3\obj\Debug\odev_soru_3.csprojAssemblyReference.cache
+R:\C#\odev_soru_3\odev_soru_3\obj\Debug\odev_soru_3.csproj.CoreCompileInputs.cache
+R:\C#\odev_soru_3\odev_soru_3\obj\Debug\odev_soru_3.exe
+R:\C#\odev_soru_3\odev_soru_3\obj\Debug\odev_soru_3.pdb
