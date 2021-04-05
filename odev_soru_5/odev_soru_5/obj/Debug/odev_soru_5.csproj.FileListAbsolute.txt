@@ -1,0 +1,6 @@
+R:\C#\odev_soru_5\odev_soru_5\bin\Debug\odev_soru_5.exe.config
+R:\C#\odev_soru_5\odev_soru_5\bin\Debug\odev_soru_5.exe
+R:\C#\odev_soru_5\odev_soru_5\bin\Debug\odev_soru_5.pdb
+R:\C#\odev_soru_5\odev_soru_5\obj\Debug\odev_soru_5.csproj.CoreCompileInputs.cache
+R:\C#\odev_soru_5\odev_soru_5\obj\Debug\odev_soru_5.exe
+R:\C#\odev_soru_5\odev_soru_5\obj\Debug\odev_soru_5.pdb
