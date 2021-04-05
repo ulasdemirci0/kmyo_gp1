@@ -1,0 +1,6 @@
+C:\Users\DRAGON\Desktop\Tamamlanan sorular GP1\odev_soru_9\odev_soru_9\bin\Release\odev_soru_9.exe.config
+C:\Users\DRAGON\Desktop\Tamamlanan sorular GP1\odev_soru_9\odev_soru_9\bin\Release\odev_soru_9.exe
+C:\Users\DRAGON\Desktop\Tamamlanan sorular GP1\odev_soru_9\odev_soru_9\bin\Release\odev_soru_9.pdb
+C:\Users\DRAGON\Desktop\Tamamlanan sorular GP1\odev_soru_9\odev_soru_9\obj\Release\odev_soru_9.csproj.CoreCompileInputs.cache
+C:\Users\DRAGON\Desktop\Tamamlanan sorular GP1\odev_soru_9\odev_soru_9\obj\Release\odev_soru_9.exe
+C:\Users\DRAGON\Desktop\Tamamlanan sorular GP1\odev_soru_9\odev_soru_9\obj\Release\odev_soru_9.pdb
