@@ -1,0 +1,7 @@
+R:\C#\odev_soru_6\odev_soru_6\bin\Debug\odev_soru_6.exe.config
+R:\C#\odev_soru_6\odev_soru_6\bin\Debug\odev_soru_6.exe
+R:\C#\odev_soru_6\odev_soru_6\bin\Debug\odev_soru_6.pdb
+R:\C#\odev_soru_6\odev_soru_6\obj\Debug\odev_soru_6.csprojAssemblyReference.cache
+R:\C#\odev_soru_6\odev_soru_6\obj\Debug\odev_soru_6.csproj.CoreCompileInputs.cache
+R:\C#\odev_soru_6\odev_soru_6\obj\Debug\odev_soru_6.exe
+R:\C#\odev_soru_6\odev_soru_6\obj\Debug\odev_soru_6.pdb
