@@ -20,7 +20,7 @@ namespace odev_soru_6
             {
                 switch (Convert.ToInt32(input))
                 {
-                    case 1995:
+                    case 1903:
                         Console.Write("Tuttuğunuz takım: Beşiktaş");
                         break;
                     case 1905:
