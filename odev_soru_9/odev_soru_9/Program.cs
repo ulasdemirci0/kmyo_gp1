@@ -22,7 +22,7 @@ namespace odev_soru_9
             Console.ForegroundColor = ConsoleColor.Gray; Console.Write("Uykusuzluk: "); Console.ForegroundColor = ConsoleColor.White; Console.WriteLine(SleepLevel);
             Console.ForegroundColor = ConsoleColor.DarkGray;
             Console.WriteLine("Gün ilerliyor....");
-            Thread.Sleep(rnd.Next(4, 8) * 500);
+            Thread.Sleep(rnd.Next(1, 3) * 1500);
             Console.Clear();
             int randomNeed;
             randomNeed = rnd.Next(1, 3);
@@ -82,7 +82,6 @@ namespace odev_soru_9
             Console.Write("Hayatta kalınan gün: ");
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine(estDay);
-            Console.ReadKey();
         }
         static void Main(string[] args)
         {

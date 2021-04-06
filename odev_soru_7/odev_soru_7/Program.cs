@@ -33,7 +33,13 @@ namespace odev_soru_7
         {
             Console.WriteLine("Gökyüzü deseninizi yeniden oluşturmak için 'olustur' yazınız.");
             if (Console.ReadLine().ToLower() == "olustur")
-                Console.Clear(); generateSky(); 
+            {
+                Console.Clear(); generateSky();
+            }else
+            {
+                Environment.Exit(-1);
+            }
+                
         }
         static void Main(string[] args)
         {
